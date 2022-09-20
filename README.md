@@ -1,0 +1,4 @@
+# Ideen
+
+- Testframework
+- Typechecker
